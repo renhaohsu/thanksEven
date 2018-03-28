@@ -38,13 +38,15 @@ body {
   border-radius: 5px;
 }
 img {
-
+  
+  position: relative;
   width: 50%;
   height: 50%;
   z-index: 1;
 }
 
 .boardYellow {
+  position: relative;
   padding: 25px;
   background-color: #FFB637;
   
